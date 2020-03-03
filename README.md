@@ -1,3 +1,6 @@
 # switch
 
-LED (2=red=pin1, 4=blue=pin2 and 8=green=pin3) in hex
+LED colors
+red = PF1 = 0x02
+blue = PF2 = 0x04
+green = PF3 = 0x08
